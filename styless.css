@@ -30,18 +30,11 @@
 }
 
 #navbar__logo {
-    background-color: #179ecb;
-    background-image: linear-gradient(to top ,#0059ff 0%, #0d90e1 100%,);
-    background-size: 100%;
-    -webkit-background-clip: text;
-    -moz-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    -moz-text-fill-color: transparent;
-    display: flex;
-    align-items: center;
-    cursor: pointer;
-    text-decoration: none;
-    font-size: 2rem;
+    display: inline-block;
+    margin: -10px; /* margin: 20px was off */
+    float: center;
+    height: 100px;
+    width: auto; /* correct proportions to specified height */
 }
 
 .fa-gem {
@@ -137,7 +130,7 @@
     }
 
     #navbar__logo {
-        padding-left: 25px;
+        padding-left: 5px;
     }
 
     .navbar__toggle .bar {
