@@ -5,6 +5,10 @@
 # ocvn.github.io
 
 ![status](https://img.shields.io/badge/Status-Not_Ready-red)
-![Working](https://img.shields.io/badge/Running-No-red)
+![Working](https://img.shields.io/badge/Running-Yes-success)
 
 ## The Official OCVN website 
+
+#### Note: Trang Web vẫn đang trong quá trình xây dựng (trải nghiệm vẫn bị hạn chế)
+
+#### Truy cập tại [Đây](https://khaizer0.github.io/ocvn.github.io)
