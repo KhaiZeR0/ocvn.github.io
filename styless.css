@@ -191,7 +191,7 @@
 }
 
 
-/* Hero CSS */
+/* Body CSS */
 
 .main {
     background-color: black;
@@ -270,6 +270,24 @@
         width: 100%;
         margin: 0 auto;
         height: 90vh;
-        
     }
 }
+
+/* Botton Copyright */
+.below {
+    background: black ;
+    height: 30px;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+.below__container h6 {
+    font-weight: 200;
+    color: rgb(247, 247, 247);
+}
+
