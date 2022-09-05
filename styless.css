@@ -31,10 +31,10 @@
 
 #navbar__logo {
     display: inline-block;
-    margin: -10px; /* margin: 20px was off */
+    margin: -10px;
     float: center;
     height: 100px;
-    width: auto; /* correct proportions to specified height */
+    width: auto;
 }
 
 .fa-gem {
