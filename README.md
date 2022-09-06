@@ -6,6 +6,7 @@
 
 ![status](https://img.shields.io/badge/Status-Not_Ready-red)
 ![Working](https://img.shields.io/badge/Running-Yes-success)
+![Mobile](https://img.shields.io/badge/Mobile_Responsive-Issue-yellow)
 
 ## The Official OCVN website 
 
