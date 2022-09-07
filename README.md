@@ -12,8 +12,6 @@
 
 #### Truy cập tại [Đây](https://khaizer0.github.io/ocvn.github.io)
 
-## IF you wanna ask something: (Vietnamese)
-
 ### Các Page chính:
 
 [Hackintosh Vietnam - Opencore](https://www.facebook.com/groups/hackintosh.vietnam)
