@@ -217,6 +217,12 @@
     -moz-text-fill-color: transparent;
 }
 
+.main__content h3 {
+    font-size: 2.5rem;
+    background-size: 100%;
+}
+
+
 .main__content h2 {
     font-size: 4rem;
     background-color: cadetblue;
@@ -229,6 +235,7 @@
 }
 
 .main__content p {
+    font-family: 'Source Code Pro', monospace;
     margin-top: 1rem;
     font-size: 2rem;
     font-weight: 700;
