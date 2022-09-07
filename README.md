@@ -8,8 +8,15 @@
 ![Working](https://img.shields.io/badge/Running-Yes-success)
 ![Mobile](https://img.shields.io/badge/Mobile_Responsive-compatible-success)
 
-## The Official OCVN website 
-
-#### Note: Trang Web vẫn đang trong quá trình xây dựng (trải nghiệm vẫn bị hạn chế)
+## Trang web chính thức của Hackintosh VietNam - OpenCore (OCVN)
 
 #### Truy cập tại [Đây](https://khaizer0.github.io/ocvn.github.io)
+
+## IF you wanna ask something: (Vietnamese)
+
+### Các Page chính:
+
+[Hackintosh Vietnam - Opencore](https://www.facebook.com/groups/hackintosh.vietnam)
+
+[Cộng Đồng Hackintosh Việt Nam](https://www.facebook.com/groups/224780132268974)
+
