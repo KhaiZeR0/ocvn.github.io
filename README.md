@@ -4,9 +4,9 @@
 
 # ocvn.github.io
 
-![status](https://img.shields.io/badge/Status-Not_Ready-red)
+![status](https://img.shields.io/badge/Status-Ready-success)
 ![Working](https://img.shields.io/badge/Running-Yes-success)
-![Mobile](https://img.shields.io/badge/Mobile_Responsive-Issue-yellow)
+![Mobile](https://img.shields.io/badge/Mobile_Responsive-compatible-success)
 
 ## The Official OCVN website 
 
